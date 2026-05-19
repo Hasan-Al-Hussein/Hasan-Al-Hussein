@@ -107,4 +107,4 @@ Git, SQL, n8n, HubSpot, QGroundControl, Arduino IDE
 ## Contact
 
 - Email: alllhussainhassan@gmail.com
-- LinkedIn: add your actual LinkedIn URL here
+- LinkedIn: www.linkedin.com/in/hasan-al-hussein
