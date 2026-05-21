@@ -2,7 +2,7 @@
 
 Computer Engineering student at Khalifa University, focused on **embedded AI, robotics, UAV systems, computer vision, real-time systems, and low-level systems engineering**.
 
-I build systems that connect software with hardware: UAV perception pipelines, embedded AI devices, TCP streaming systems, robotics logic, microcontroller applications, and security research prototypes.
+I build end-to-end systems that connect embedded hardware, AI pipelines, networking, and real-time software.
 
 ## Current Focus
 
@@ -21,7 +21,7 @@ Real-time UAV-based face recognition platform running fully onboard using a Jets
 - Achieved real-time onboard inference at approximately 35-50 FPS
 - Deployed AI pipeline directly on embedded GPU hardware
 - Integrated UAV hardware, camera, Jetson, power system, and GUI
-- Designed for future MAVLink-based autonomous navigation
+- Built as a foundation for future autonomous UAV integration.
 
 **Tech:** Python, OpenCV, SCRFD, ArcFace, Jetson Orin Nano, CUDA, TensorRT, UAV Systems
 
@@ -56,14 +56,14 @@ A real-time embedded AI system that classifies focus state using pulse sensor da
 ### Android Work Profile Security Research
 Controlled lab security research project analyzing Android work-profile isolation weaknesses through CVE-2025-22442. The project demonstrated unauthorized app injection during provisioning and showed the risk of enterprise data exposure.
 
-**Note:** This project was conducted strictly in a controlled educational lab environment.
+Educational lab security research project analyzing Android work-profile isolation weaknesses.
 
 **Tech:** Android Security, ADB, Python, TCP, Mobile Security, Vulnerability Analysis
 
 ---
 
 ### Quantum Random Number Generator Uncertainty Analysis
-Undergraduate research project studying how uncertainty in beam-splitter-based quantum random number generators affects extraction efficiency, uniform random bit cost, Gaussian generation cost, throughput, and latency.
+Undergraduate research project studying how uncertainty in beam-splitter-based quantum random number generators affects extraction efficiency, uniform random bit cost, computational cost of Gaussian random number generation, throughput, and latency.
 
 **Highlights**
 - Built analytical model linking source uncertainty to computational cost
@@ -85,7 +85,7 @@ Embedded ATM simulation implemented on the FRDM-KL25Z microcontroller using keyp
 Python, C++, C, Java, MATLAB, Verilog
 
 **AI & Computer Vision**
-PyTorch, TensorFlow, OpenCV, SCRFD, ArcFace, DeepSORT, Edge Impulse
+PyTorch, TensorFlow, OpenCV, CUDA, TensorRT, SCRFD, ArcFace, DeepSORT, Edge Impulse
 
 **Embedded & Hardware**
 Jetson Orin Nano, Arduino, Raspberry Pi, FRDM-KL25Z, FPGA, UART, GPIO, IMU Sensors, Microcontrollers
@@ -94,7 +94,7 @@ Jetson Orin Nano, Arduino, Raspberry Pi, FRDM-KL25Z, FPGA, UART, GPIO, IMU Senso
 Linux, TCP/IP, Socket Programming, Multithreading, Cisco Routing, Wireshark, FFmpeg, SDL
 
 **Tools**
-Git, SQL, n8n, HubSpot, QGroundControl, Arduino IDE
+Git, Linux, SQL, Wireshark, QGroundControl, Arduino IDE
 
 ## Experience Snapshot
 
@@ -108,3 +108,4 @@ Git, SQL, n8n, HubSpot, QGroundControl, Arduino IDE
 
 - Email: alllhussainhassan@gmail.com
 - LinkedIn: www.linkedin.com/in/hasan-al-hussein
+- GitHub: github.com/Hasan-Al-Hussein
