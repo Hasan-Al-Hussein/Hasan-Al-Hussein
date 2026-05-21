@@ -152,5 +152,5 @@ Git, Linux, SQL, Wireshark, QGroundControl, Arduino IDE
 # Contact
 
 - Email: alllhussainhassan@gmail.com
-- LinkedIn: www.linkedin.com/in/hasan-al-hussein
-- GitHub: github.com/Hasan-Al-Hussein
+- LinkedIn: [linkedin.com/in/hasan-al-hussein](https://www.linkedin.com/in/hasan-al-hussein)
+- GitHub: [github.com/Hasan-Al-Hussein](https://github.com/Hasan-Al-Hussein)
