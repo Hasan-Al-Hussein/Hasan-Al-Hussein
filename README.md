@@ -115,6 +115,34 @@ A multithreaded C client/server system for live audio and video across routed su
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Proficien AI Automation Internship
+
+An end-to-end client engagement system spanning responsive web delivery, lead ingestion, n8n orchestration, HTML email, response routing, HubSpot CRM, and reliability testing.
+
+**Evidence:** animated systems banner, 3 architecture diagrams, real workflow screenshots, technical case study
+
+`n8n` `HubSpot` `APIs` `Webhooks` `HTML/CSS`
+
+[![Open repository](https://img.shields.io/badge/OPEN_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasan-Al-Hussein/proficien-ai-automation-internship)
+
+</td>
+<td width="50%" valign="top">
+
+### Employee Request Hub
+
+A full-stack internal request platform with authenticated workflows, role-aware views, Supabase persistence, deployment automation, and a live product surface.
+
+**Evidence:** Next.js source, database schema, product architecture, live deployment
+
+`Next.js` `TypeScript` `Supabase` `SQL` `Vercel`
+
+[![Open repository](https://img.shields.io/badge/OPEN_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasan-Al-Hussein/employee-request-hub)
+
+</td>
+</tr>
 </table>
 
 ## Robotics in the field
@@ -140,6 +168,7 @@ A multithreaded C client/server system for live audio and video across routed su
 
 | Period | Milestone | Engineering focus |
 | --- | --- | --- |
+| Jun-Jul 2025 | **Proficien Internship** | Responsive web delivery, n8n orchestration, HTML email, HubSpot CRM, debugging, and technical handover |
 | 2025 | **KURA at RoboCup Asia-Pacific, Abu Dhabi** | C++ adjust/crabwalk behavior and set-piece positioning under competition constraints |
 | May 2026 | **RoboCup Asia-Pacific Tianjin Invitational** | Humanoid Soccer League participation with KURA |
 | Jun–Jul 2026 | **KUCARS / KURA Robotics Internship** | ROS 2, BehaviorTree.CPP, restart strategy, goalkeeper/striker analysis, testing, and handover |
@@ -161,18 +190,22 @@ A multithreaded C client/server system for live audio and video across routed su
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1F8A70?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 
 </div>
 
 **Robotics and embedded:** ROS 2, BehaviorTree.CPP, Booster T1, Jetson Orin Nano, Arduino Nano 33 BLE Sense, FRDM-KL25Z, UART, GPIO, IMU sensing<br />
 **AI and vision:** OpenCV, PyTorch, TensorFlow, CUDA, TensorRT, SCRFD, ArcFace, Edge Impulse<br />
 **Systems and networking:** Linux, sockets, TCP/IP, multithreading, Wireshark, FFmpeg, SDL<br />
-**Product engineering:** Next.js, TypeScript, Supabase, SQL, Vercel, Git
+**Product engineering:** Next.js, TypeScript, Supabase, SQL, Vercel, Git<br />
+**Automation and integration:** n8n, HubSpot, Apollo, Gmail, Google Sheets, HTTP APIs, webhooks
 
 ## Complete project index
 
 | Domain | Repository | What is public |
 | --- | --- | --- |
+| AI automation | [Proficien Automation Internship](https://github.com/Hasan-Al-Hussein/proficien-ai-automation-internship) | Architecture, workflow evidence, reliability model, technical case study |
 | Humanoid robotics | [KURA Booster Robotics Internship](https://github.com/Hasan-Al-Hussein/kura-booster-robotics-internship) | Final report, diagrams, field evidence, certificate |
 | Humanoid robotics | [KURA RoboCup 2025](https://github.com/Hasan-Al-Hussein/kura-robocup-2025) | Competition story, photos, safe C++ snippets |
 | Embedded AI | [UAV Face Recognition](https://github.com/Hasan-Al-Hussein/uav-face-recognition-system) | Technical report, architecture, demos, photos |
