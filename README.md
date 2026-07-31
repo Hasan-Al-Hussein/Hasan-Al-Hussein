@@ -16,7 +16,7 @@
 
 ## Hello, I build the whole system
 
-I am a **Computer Engineering student at Khalifa University** working where software meets the physical world: humanoid robotics, embedded AI, computer vision, networking, and real-time systems.
+I am a **Computer Engineering graduate from Khalifa University** working where software meets the physical world: humanoid robotics, embedded AI, computer vision, networking, and real-time systems.
 
 My favorite engineering problems cannot be solved by a model or a code file alone. The sensor has to be trusted, the decision layer has to be explainable, the motion or interface has to respond correctly, and the result has to survive real testing.
 
@@ -172,7 +172,7 @@ A full-stack internal request platform with authenticated workflows, role-aware 
 | 2025 | **KURA at RoboCup Asia-Pacific, Abu Dhabi** | C++ adjust/crabwalk behavior and set-piece positioning under competition constraints |
 | May 2026 | **RoboCup Asia-Pacific Tianjin Invitational** | Humanoid Soccer League participation with KURA |
 | Jun–Jul 2026 | **KUCARS / KURA Robotics Internship** | ROS 2, BehaviorTree.CPP, restart strategy, goalkeeper/striker analysis, testing, and handover |
-| Ongoing | **Computer Engineering at Khalifa University** | Intelligent systems that connect perception, decisions, hardware, and deployment |
+| 2026 | **BSc in Computer Engineering, Khalifa University** | Intelligent systems that connect perception, decisions, hardware, and deployment |
 
 ## Technical toolbox
 
