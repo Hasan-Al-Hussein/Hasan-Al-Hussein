@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 112" role="img" aria-labelledby="title desc">
+  <title id="title">Animated engineering focus console</title>
+  <desc id="desc">A terminal-style typing animation cycling through humanoid robotics, embedded AI, and real-time systems.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#071826"/>
+      <stop offset="1" stop-color="#0a2438"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-100%" width="140%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="type1"><rect x="0" y="0" height="40"><animate attributeName="width" values="0;690;690;0;0;0;0" keyTimes="0;.24;.29;.33;.34;.99;1" dur="10.5s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type2"><rect x="0" y="0" height="40"><animate attributeName="width" values="0;0;0;720;720;0;0" keyTimes="0;.33;.34;.57;.62;.66;1" dur="10.5s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="type3"><rect x="0" y="0" height="40"><animate attributeName="width" values="0;0;0;0;0;735;0" keyTimes="0;.65;.66;.67;.68;.91;1" dur="10.5s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1098" height="110" rx="16" fill="url(#panel)" stroke="#1b526c"/>
+  <circle cx="27" cy="25" r="6" fill="#ff6b6b"/><circle cx="47" cy="25" r="6" fill="#ffd166"/><circle cx="67" cy="25" r="6" fill="#32f0a2"/>
+  <text x="91" y="31" fill="#7294a6" font-family="Consolas, 'Courier New', monospace" font-size="13">hasan@systems:~</text>
+  <text x="28" y="78" fill="#32f0a2" font-family="Consolas, 'Courier New', monospace" font-size="23" filter="url(#softGlow)">$</text>
+  <g transform="translate(56 58)" fill="#dff8ff" font-family="Consolas, 'Courier New', monospace" font-size="22">
+    <text y="21" clip-path="url(#type1)">build --domain "humanoid robotics" --stack "ROS 2 + C++"</text>
+    <text y="21" clip-path="url(#type2)">deploy --target "edge hardware" --pipeline "vision + AI"</text>
+    <text y="21" clip-path="url(#type3)">debug --layer "system" --method "measure, isolate, verify"</text>
+  </g>
+  <rect x="1020" y="59" width="12" height="26" rx="2" fill="#24d6ff" filter="url(#softGlow)"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.48;.5;1" dur="1s" repeatCount="indefinite"/></rect>
+  <text x="1054" y="79" fill="#688b9d" font-family="Consolas, 'Courier New', monospace" font-size="12">RUN</text>
+</svg>

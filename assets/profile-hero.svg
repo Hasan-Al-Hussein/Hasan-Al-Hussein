@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hasan Al Hussein — computer engineering and intelligent systems</title>
+  <desc id="desc">Animated robotics systems banner with a radar sweep, robot interface, and moving data signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061526"/>
+      <stop offset="0.5" stop-color="#08243a"/>
+      <stop offset="1" stop-color="#05111f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#24d6ff"/>
+      <stop offset="0.5" stop-color="#32f0a2"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="radar" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#24d6ff" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#24d6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8ddcff" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="radarClip"><circle cx="968" cy="180" r="125"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 304C190 268 318 338 508 300S844 255 1200 306V360H0Z" fill="#0b3550" fill-opacity="0.55"/>
+  <path d="M0 326C210 282 361 350 552 318S895 285 1200 325" fill="none" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+
+  <g transform="translate(54 44)">
+    <text x="0" y="22" fill="#32f0a2" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="3">SYSTEMS / ROBOTICS / EDGE AI</text>
+    <text x="0" y="104" fill="#f4fbff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">HASAN AL HUSSEIN</text>
+    <rect x="0" y="127" width="650" height="3" rx="2" fill="url(#accent)"/>
+    <text x="0" y="172" fill="#b8ccda" font-family="Segoe UI, Arial, sans-serif" font-size="23">Computer Engineering at Khalifa University</text>
+    <text x="0" y="211" fill="#e7f5fb" font-family="Segoe UI, Arial, sans-serif" font-size="18">I build systems that sense, decide, and act in the real world.</text>
+
+    <g transform="translate(0 245)" font-family="Consolas, 'Courier New', monospace" font-size="13">
+      <rect x="0" y="0" width="123" height="32" rx="16" fill="#0d3045" stroke="#24d6ff" stroke-opacity="0.65"/>
+      <circle cx="18" cy="16" r="4" fill="#24d6ff"><animate attributeName="opacity" values=".35;1;.35" dur="1.7s" repeatCount="indefinite"/></circle>
+      <text x="31" y="21" fill="#d8f7ff">ROS 2 + C++</text>
+      <rect x="137" y="0" width="156" height="32" rx="16" fill="#0d3045" stroke="#32f0a2" stroke-opacity="0.65"/>
+      <circle cx="155" cy="16" r="4" fill="#32f0a2"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" repeatCount="indefinite"/></circle>
+      <text x="168" y="21" fill="#dcfff1">HUMANOID ROBOTS</text>
+      <rect x="307" y="0" width="139" height="32" rx="16" fill="#0d3045" stroke="#a78bfa" stroke-opacity="0.65"/>
+      <circle cx="325" cy="16" r="4" fill="#a78bfa"><animate attributeName="opacity" values=".35;1;.35" dur="1.9s" repeatCount="indefinite"/></circle>
+      <text x="338" y="21" fill="#eee8ff">EMBEDDED AI</text>
+    </g>
+  </g>
+
+  <g clip-path="url(#radarClip)">
+    <circle cx="968" cy="180" r="125" fill="url(#radar)" stroke="#24d6ff" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="968" cy="180" r="84" fill="none" stroke="#24d6ff" stroke-opacity="0.18"/>
+    <circle cx="968" cy="180" r="43" fill="none" stroke="#24d6ff" stroke-opacity="0.2"/>
+    <path d="M843 180H1093M968 55V305" stroke="#24d6ff" stroke-opacity="0.16"/>
+    <g transform="rotate(0 968 180)">
+      <path d="M968 180L968 55A125 125 0 0 1 1056 92Z" fill="#32f0a2" fill-opacity="0.18"/>
+      <line x1="968" y1="180" x2="1056" y2="92" stroke="#32f0a2" stroke-width="2" filter="url(#glow)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 968 180" to="360 968 180" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="1038" cy="124" r="5" fill="#32f0a2" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="906" cy="232" r="4" fill="#a78bfa" filter="url(#glow)"><animate attributeName="opacity" values=".3;1;.3" dur="1.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(918 123)" stroke="url(#accent)" stroke-width="3" fill="#071d2e">
+    <path d="M28 0H72L86 22V72L70 92H30L14 72V22Z"/>
+    <rect x="28" y="25" width="44" height="34" rx="8"/>
+    <circle cx="41" cy="42" r="4" fill="#32f0a2" stroke="none"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="59" cy="42" r="4" fill="#24d6ff" stroke="none"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/></circle>
+    <path d="M37 70H63"/>
+  </g>
+
+  <g fill="#32f0a2" filter="url(#glow)">
+    <circle r="3"><animateMotion dur="3.3s" repeatCount="indefinite" path="M742 92C805 98 828 130 861 153"/></circle>
+    <circle r="3"><animateMotion dur="4.2s" repeatCount="indefinite" path="M752 259C814 252 835 226 864 207"/></circle>
+  </g>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#7fa6ba">
+    <text x="1111" y="86">SENSE</text>
+    <text x="1111" y="180">DECIDE</text>
+    <text x="1111" y="273">ACT</text>
+    <path d="M1094 91H1080M1094 176H1080M1094 269H1080" stroke="#7fa6ba"/>
+  </g>
+</svg>
