@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Hasan Al Hussein — computer engineering, robotics, and embedded AI" />
+<img src="assets/profile-hero.svg" width="100%" alt="Hasan Al Hussein: computer engineering, robotics, and embedded AI" />
 
 <br />
 
@@ -14,7 +14,7 @@
 
 </div>
 
-## Hello — I build the whole system
+## Hello, I build the whole system
 
 I am a **Computer Engineering student at Khalifa University** working where software meets the physical world: humanoid robotics, embedded AI, computer vision, networking, and real-time systems.
 
@@ -121,12 +121,12 @@ A multithreaded C client/server system for live audio and video across routed su
 
 <table>
 <tr>
-<td width="50%"><img src="assets/hasan-with-booster-t1.jpg" width="100%" alt="Hasan Al Hussein with the Booster T1 humanoid robot" /></td>
+<td width="50%"><img src="assets/booster-t1-hardware-test.jpg" width="100%" alt="Hasan Al Hussein performing a tethered Booster T1 hardware test" /></td>
 <td width="50%"><img src="assets/field-diagnostics.jpg" width="100%" alt="KURA team performing field diagnostics on humanoid robots" /></td>
 </tr>
 <tr>
-<td><sub><b>Booster T1 platform</b> — hardware-aware behavior development and testing.</sub></td>
-<td><sub><b>Field diagnostics</b> — fast feedback between observed behavior, logs, code, and retesting.</sub></td>
+<td><sub><b>Tethered hardware test:</b> checking the Booster T1 platform with a connected development laptop.</sub></td>
+<td><sub><b>Field diagnostics:</b> connecting observed behavior, logs, code changes, and retesting.</sub></td>
 </tr>
 </table>
 
