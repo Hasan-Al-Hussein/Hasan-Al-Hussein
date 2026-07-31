@@ -121,12 +121,12 @@ A multithreaded C client/server system for live audio and video across routed su
 
 <table>
 <tr>
-<td width="50%"><img src="assets/booster-t1-hardware-test.jpg" width="100%" alt="Hasan Al Hussein performing a tethered Booster T1 hardware test" /></td>
-<td width="50%"><img src="assets/field-diagnostics.jpg" width="100%" alt="KURA team performing field diagnostics on humanoid robots" /></td>
+<td width="50%"><img src="assets/sideline-robot-calibration.png" width="100%" alt="Hasan Al Hussein calibrating a humanoid robot beside the RoboCup field" /></td>
+<td width="50%"><img src="assets/field-terminal-debugging.png" width="100%" alt="Live robot logs and Hasan Al Hussein's participant badge beside the RoboCup field" /></td>
 </tr>
 <tr>
-<td><sub><b>Tethered hardware test:</b> checking the Booster T1 platform with a connected development laptop.</sub></td>
-<td><sub><b>Field diagnostics:</b> connecting observed behavior, logs, code changes, and retesting.</sub></td>
+<td><sub><b>Sideline calibration:</b> adjusting the humanoid robot with a development laptop beside the competition field.</sub></td>
+<td><sub><b>Terminal diagnostics:</b> inspecting live robot logs during field testing at RoboCup Asia-Pacific 2025.</sub></td>
 </tr>
 </table>
 
