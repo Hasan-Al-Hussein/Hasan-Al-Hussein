@@ -14,7 +14,7 @@
 
 </div>
 
-## Hello, I build the whole system
+## Engineering intelligence for the physical world
 
 I am a **Computer Engineering graduate from Khalifa University** working where software meets the physical world: humanoid robotics, embedded AI, computer vision, networking, and real-time systems.
 
