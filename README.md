@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-hero.svg" width="100%" alt="Hasan Al Hussein: computer engineering, robotics, and embedded AI" />
+<img src="assets/profile-hero.svg" width="100%" alt="Hasan Ahmed: computer engineering, robotics, and embedded AI" />
 
 <br />
 
@@ -149,8 +149,8 @@ A full-stack internal request platform with authenticated workflows, role-aware 
 
 <table>
 <tr>
-<td width="50%"><img src="assets/sideline-robot-calibration.png" width="100%" alt="Hasan Al Hussein calibrating a humanoid robot beside the RoboCup field" /></td>
-<td width="50%"><img src="assets/field-terminal-debugging.png" width="100%" alt="Live robot logs and Hasan Al Hussein's participant badge beside the RoboCup field" /></td>
+<td width="50%"><img src="assets/sideline-robot-calibration.png" width="100%" alt="Hasan Ahmed calibrating a humanoid robot beside the RoboCup field" /></td>
+<td width="50%"><img src="assets/field-terminal-debugging.png" width="100%" alt="Live robot logs and Hasan Ahmed's participant badge beside the RoboCup field" /></td>
 </tr>
 <tr>
 <td><sub><b>Sideline calibration:</b> adjusting the humanoid robot with a development laptop beside the competition field.</sub></td>
