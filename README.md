@@ -1,11 +1,11 @@
-# Hasan Al Hussein
+# Hasan Ahmed
 
 Computer Engineering student at Khalifa University building systems at the intersection of **robotics, embedded AI, computer vision, networking, and real-time software**.
 
 I care about projects that survive outside the notebook: robots on a field, AI running onboard embedded hardware, microcontrollers reacting to real inputs, and networked systems moving data under real constraints.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hasan--Al--Hussein-111827?style=for-the-badge&logo=github)](https://github.com/Hasan-Al-Hussein)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Al%20Hussein-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-hussein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasan%20Ahmed-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-al-hussein)
 [![Email](https://img.shields.io/badge/Email-alllhussainhassan%40gmail.com-7c3aed?style=for-the-badge)](mailto:alllhussainhassan@gmail.com)
 
 ## Current Focus
