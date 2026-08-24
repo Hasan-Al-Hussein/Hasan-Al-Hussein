@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 112" role="img" aria-labelledby="title desc">
   <title id="title">Animated engineering focus console</title>
-  <desc id="desc">A terminal-style typing animation cycling through humanoid robotics, embedded AI, and real-time systems.</desc>
+  <desc id="desc">A terminal-style typing animation cycling through evidence-bound AI, robotics, and system verification.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#071826"/>
@@ -16,9 +16,9 @@
   <text x="91" y="31" fill="#7294a6" font-family="Consolas, 'Courier New', monospace" font-size="13">hasan@systems:~</text>
   <text x="28" y="78" fill="#32f0a2" font-family="Consolas, 'Courier New', monospace" font-size="23" filter="url(#softGlow)">$</text>
   <g transform="translate(56 58)" fill="#dff8ff" font-family="Consolas, 'Courier New', monospace" font-size="22">
-    <text y="21" clip-path="url(#type1)">build --domain "humanoid robotics" --stack "ROS 2 + C++"</text>
-    <text y="21" clip-path="url(#type2)">deploy --target "edge hardware" --pipeline "vision + AI"</text>
-    <text y="21" clip-path="url(#type3)">debug --layer "system" --method "measure, isolate, verify"</text>
+    <text y="21" clip-path="url(#type1)">build --domain "evidence-bound AI" --stack "FastAPI + pgvector"</text>
+    <text y="21" clip-path="url(#type2)">deploy --target "edge hardware" --pipeline "vision + robotics"</text>
+    <text y="21" clip-path="url(#type3)">verify --layer "system" --method "measure, isolate, prove"</text>
   </g>
   <rect x="1020" y="59" width="12" height="26" rx="2" fill="#24d6ff" filter="url(#softGlow)"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.48;.5;1" dur="1s" repeatCount="indefinite"/></rect>
   <text x="1054" y="79" fill="#688b9d" font-family="Consolas, 'Courier New', monospace" font-size="12">RUN</text>
